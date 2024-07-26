@@ -30,4 +30,4 @@ i've been logging for a long time now. been using notion[^1] and trying all kind
 
 [^1]: [notion](https://www.notion.so/) is made by a bunch of really cool people. it's a project organizer and note manager, it's not exactly my cup of tea but i've been using it for a while now cause didn't have anything better that suited my needs.
 
-[^2] : cms is short for content management system, which is a fancy term used in web and apps to suggest the way the data that is changing and being collected is stored and used in a reliable non-intrusive way with additional quality of life improvements.
+[^2]: cms is short for content management system, which is a fancy term used in web and apps to suggest the way the data that is changing and being collected is stored and used in a reliable non-intrusive way with additional quality of life improvements.
