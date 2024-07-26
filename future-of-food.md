@@ -1,14 +1,14 @@
 ---
 title: "script: future of food"
 publishDate: "2 May 2024"
-updatedDate: "2 May 2024"
+updatedDate: "26 July 2024"
 description: "a first speech in my department about the stuff you stuff in"
 tags: ["speech", "script"]
 ---
 
 ## what is this?
 
-this is the first speech i had to prepare and present in my department as part of a module that is supposed to enhance your communication skills. this speech focuses on a single aspect that i don't remember anymore, maybe i'll look into it later. one thing i remember is i mistook when i had to present this speech and didn't prepare it on the day i was supposed to present it. so i had to remember the script within the lunch break and present with my usual not so official attire. the madam wasn't pleased with the attire or the topic. i mean who don't like food right? anyways i hope you enjoy it.
+this is the first speech i had to prepare and present in my department as part of a module that is supposed to enhance your communication skills. this speech focuses on a single aspect that escapes my memory now. one thing that i remember is mistaking when i had to present this speech and didn't prepare it on the day it was supposed to be presented. had to remember the script within the lunch break and present with my usual (not so official) attire. the madam wasn't pleased with the attire or the topic. who on earth doesn't like food? anyways i hope you enjoy it.
 
 ## script
 

@@ -1,7 +1,7 @@
 ---
 title: "uart transceiver implementation in verilog"
 description: "wave to your friend in the lab with numbers in a 7 segment display"
-publishDate: 05 May 2024
+publishDate: 26 July 2024
 tags: ["verilog", "uart", "fpga", "digital design", "altera"]
 draft: true
 ---

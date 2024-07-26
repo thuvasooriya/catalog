@@ -8,7 +8,7 @@ tags: ["speech", "script"]
 
 ## what is this?
 
-this is the second speech i had to prepare and present in my department as part of a module that is supposed to enhance your communication skills. i guess it worked. this speech was specifically prepared with an emphasis on leaving impressions on the audience through the use of varied tones and emotions. that's why there has been some shoe-horning of emotions and tones in the script. i hope you enjoy it.
+this is the second speech i had to prepare and present in my department as part of a module that is supposed to enhance your communication skills. guess it worked. this speech was specifically prepared with an emphasis on leaving impressions on the audience through the use of varied tones and emotions. that's why there has been some shoe-horning of emotions and tones in the script. i hope you enjoy it.
 
 ## script
 

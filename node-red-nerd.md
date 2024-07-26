@@ -7,16 +7,20 @@ tags: ["embedded"]
 draft: false
 ---
 
+## update
+> this post is out of date. will try to update with the medibay project code when time permits. in the meantime if you found it working or found a workaround feel free to open a pull request or ping me.
+
 ## exposition
 
 by this time you probably know what node-red is and what is it used for if you really wanna know, ping me in x.
 this post tells you how to install node-red in a way that you can use it like a modern day chad.
 
-> this post seems out of date will try to update with the medibox project code when i get the time. in the meantime if you found it working or found a solution feel free to open a pull request or dm me.
+
 
 ## installation
 
-i use [bun](https://bun.sh/) for everything javascript nowadays. so i decided to install and manage node-red with it too. since i haven’t faced any issues yet and it’s way faster and cooler, i would recommend you to do that too. at the time of writing bun is relatively stable in windows and almost usable in unix. how bad can it be? if it's not your cup of tea just use node instead, it's not that hard. i'll update the instructions for that too when i get the time.
+nowadays i use [bun](https://bun.sh/) for everything javascript. hence why not install and manage node-red with it. 
+since i haven’t faced any issues yet and it’s way faster and cooler, i would recommend you to do that too. now bun is kinda stable in windows and usable in unix. how bad can it be? if it's not your cup of tea, just use node instead, it's not that hard.
 
 ```bash frame="code"
 bunx --bun node-red
@@ -30,7 +34,7 @@ here are some of the few things that i do to make my life a teeny bit easier
 
 #### installing themes
 
-if you don't know already i'm a dark mode fanatic. i can't live with staring at a white screen for too long. so i installed a dark theme for node-red too. here's how you can do it too.
+if you don't know already being a dark mode fanatic, can't live with staring at a white screen for too long. hence installing a dark theme for node-red is the obvious next step. here's how you can do it too.
 
 1. navigate to `$HOME/.node-red` in terminal and install community themes
 
